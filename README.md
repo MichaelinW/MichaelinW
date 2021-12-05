@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MichaelinW
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning HTML,Javascript, C#, .NET applciation
+- 📫 How to reach me: michaelinwinnipeg@gmail.com
